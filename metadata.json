@@ -1,0 +1,6 @@
+{
+  "name": "PriceAction Codex - Technical Chart Patterns & Trade Terminal",
+  "description": "Comprehensive technical price action pattern library with real Indian stock and index chart examples (NIFTY, BANKNIFTY, RELIANCE, HDFCBANK, TATAMOTORS), interactive candlestick terminal, trade setups, and trader learning simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
